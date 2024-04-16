@@ -6,6 +6,6 @@ pandas
 tensorflow
 matplotlib
 numpy
-opencv-python 
+opencv-python-headless
 tqdm
 
